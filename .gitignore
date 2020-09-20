@@ -34,3 +34,10 @@
 # Visual studio stuff
 *.suo
 *.VC.db
+# Visual studio
+.vs/
+*.tlog
+*.pdb
+*.ilk
+*.exp
+LanguageLayoutFixer/.vs/

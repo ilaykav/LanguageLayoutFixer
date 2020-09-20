@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Visual studio stuff
+*.suo
+*.VC.db

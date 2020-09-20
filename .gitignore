@@ -41,3 +41,5 @@
 *.ilk
 *.exp
 LanguageLayoutFixer/.vs/
+*.db
+LanguageLayoutFixer/.vs/LanguageLayoutFixer/v16/.suo
